@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Rboat::VERSION
   spec.authors       = ["binku"]
   spec.email         = ["binku87@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{A generator to generate CocoaPod 'Boat' files}
+  spec.description   = %q{A generator to generate CocoaPod 'Boat' files}
   spec.homepage      = ""
   spec.license       = "MIT"
 
